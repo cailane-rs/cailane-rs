@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @cailane-rs
-Tenho 18 anos e atualmente sou recepcionista 
-- 👀  Estou entusiasmada por iniciar  os estudos em programação e estar me apaixonando
-- 🌱 I’m currently learning  Front-end com JavaScript, HTML e CSS
-- 💞️ I’m looking to  aprender tudo o  que preciso para ingressar no mercado da tecnologia
+- 👋 Olá, eu sou a @cailane-rs
+- 👀 Tenho 18 anos e atualmente sou recepcionista 
+- 🌱 Estou me aventurando no mundo do C#!
+- 💞️ Logo novos projetos surgirão por aqui ;)
 - 📫 How to reach me :
 e-mail: cailanee77@gmail.com
 Linkedin: https://www.linkedin.com/in/cailane-rodrigues-silveira-a305531ab/
