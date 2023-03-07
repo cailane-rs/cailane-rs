@@ -1,9 +1,9 @@
-- 👋 Olá, eu sou a @cailane-rs
-- 👀 Tenho 18 anos e atualmente sou recepcionista 
-- 🌱 Estou me aventurando no mundo do C#!
-- 💞️ Logo novos projetos surgirão por aqui ;)
+- 👋 Hey guys, I'm Cailane (@cailane-rs)
+- 👀 I'm 19 years old and I'm a recepcionist in career transition
+- 🌱 I currently study HTML, CSS and JavaScript
+- 💞️ Fun fact: many programmers are good gamers, I'm just a programmer...
 - 📫 How to reach me :
-e-mail: cailanee77@gmail.com
+Email: cailanee77@gmail.com
 Linkedin: https://www.linkedin.com/in/cailane-rodrigues-silveira-a305531ab/
 <!---
 cailane-rs/cailane-rs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
