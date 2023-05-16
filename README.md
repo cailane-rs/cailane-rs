@@ -1,6 +1,6 @@
 - 👋 Hey guys, I'm Cailane (@cailane-rs)
 - 👀 I'm 19 years old and I'm a recepcionist in career transition
-- 🌱 I currently study HTML, CSS and JavaScript
+- 🌱 I currently study JavaScript, Node.js, MySQL, HTML, and CSS
 - 💞️ Fun fact: many programmers are good gamers, I'm just a programmer...
 - 📫 How to reach me :
 Email: cailanee77@gmail.com
