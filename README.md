@@ -1,8 +1,7 @@
-- 👋 Hey guys, I'm Cailane (@cailane-rs)
-- 👀 I'm 19 years old and I'm a recepcionist in career transition
-- 🌱 I currently study JavaScript, Node.js, MySQL, HTML, and CSS
-- 💞️ Fun fact: many programmers are good gamers, I'm just a programmer...
-- 📫 How to reach me :
+- 👋 Oi pessoal, eu sou a Cailane (@cailane-rs)
+- 👀 Tenho 20 anos, fui assistente de desenvolvimento Java e hoje sou Assistente de Qualidade (lado escuro da força).
+- 🌱 Eu tenho estudado Java, Cypress, JavaScript, HTML, and CSS
+- 📫 Como me encontrar :
 Email: cailanee77@gmail.com
 Linkedin: https://www.linkedin.com/in/cailane-rodrigues-silveira-a305531ab/
 <!---
