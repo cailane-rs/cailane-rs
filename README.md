@@ -1,6 +1,6 @@
-- 👋 Oi pessoal, eu sou a Cailane (@cailane-rs)
-- 👀 Tenho 20 anos, fui assistente de desenvolvimento Java e hoje sou Assistente de Qualidade (lado escuro da força).
-- 🌱 Eu tenho estudado Java, Cypress, JavaScript, HTML, and CSS
+- 🤠 Oie, eu sou a Cailane (@cailane-rs)
+- Tenho 21 anos, fui assistente de desenvolvimento Java e hoje sou Assistente de Qualidade (lado escuro da força).
+- Eu tenho estudado Cypress, JavaScript, HTML, CSS e alguns frameworks básicos de front-end.
 - 📫 Como me encontrar :
 Email: cailanee77@gmail.com
 Linkedin: https://www.linkedin.com/in/cailane-rodrigues-silveira-a305531ab/
